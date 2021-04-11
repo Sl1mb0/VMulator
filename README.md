@@ -1,6 +1,6 @@
-# virtem
+# VMulator
 
-Little virtual machine to demonstrate the Execute, Load, and Fetch cycle computers use to execute assembly instructions.
+Virtual machine emulator meant to highlight the execute, load, and fetch cycle computers use to execute instructions.
 
 ELF cycle is modeled with enumerated assembly instructions, a stack, and instruction pointers. 
 virtem uses these concepts to add and print two numbers.
